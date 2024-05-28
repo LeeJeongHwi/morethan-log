@@ -4,18 +4,18 @@ const CONFIG = {
     name: "LeeJeongHwi",
     image: "/main_char.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "AI Researcher",
-    bio: "B.S 2016 ~ 2022 \n M.E 2022 ~ 2024 ",
+    bio: "LeeJeongHwi Tech Blog",
     email: "wjdgnl97@gmail.com",
     linkedin: "https://www.linkedin.com/in/jeonghwi-lee-189614145/",
     github: "https://github.com/LeeJeongHwi",
     instagram: "https://www.instagram.com/jeonghwi._?igsh=ZDUzd2N0ZHNvYjg5",
   },
-  projects: [
-    {
-      name: ``,
-      href: "",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: ``,
+  //     href: "",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "과일망의 이모저모",
