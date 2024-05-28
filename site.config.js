@@ -10,12 +10,8 @@ const CONFIG = {
     github: "https://github.com/LeeJeongHwi",
     instagram: "https://www.instagram.com/jeonghwi._?igsh=ZDUzd2N0ZHNvYjg5",
   },
-  // projects: [
-  //   {
-  //     name: ``,
-  //     href: "",
-  //   },
-  // ],
+  projects: [
+  ],
   // blog setting (required)
   blog: {
     title: "과일망의 이모저모",
