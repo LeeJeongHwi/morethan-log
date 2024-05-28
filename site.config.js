@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "LeeJeongHwi",
     image: "/main_char.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "ML Modeler",
-    bio: "ML ",
+    role: "AI Researcher",
+    bio: "B.S 2016 ~ 2022 \n M.E 2022 ~ 2024 ",
     email: "wjdgnl97@gmail.com",
     linkedin: "https://www.linkedin.com/in/jeonghwi-lee-189614145/",
     github: "https://github.com/LeeJeongHwi",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "과일망의 이모저모",
-    description: "안녕하세요, ML Engineer, Modeler를 꿈꾸고 있는 과일망입니다. \n테크니컬 노트를 적거나, 저의 일상, 후기 등 작성해보고자 합니다."
+    description: "안녕하세요, AI Researcher를 꿈꾸고 있는 과일망입니다. \n테크니컬 노트를 적거나, 저의 일상, 후기 등 작성해보고자 합니다."
   },
 
   // CONFIG configration (required)
@@ -47,7 +47,7 @@ const CONFIG = {
     },
   },
   naverSearchAdvisor: {
-    enable: false,
+    enable: true,
     config: {
       siteVerification: process.env.NEXT_PUBLIC_NAVER_SITE_VERIFICATION || "",
     },
